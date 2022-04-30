@@ -1,4 +1,4 @@
-"# homelane-app" <br />
+"# homelane-app" Hackerearth Problem<br />
 <br />
 Deployement URL: https://homelane-app.herokuapp.com/ <br />
 Github: https://github.com/Sid22031998/homelane-app <br />
@@ -26,5 +26,3 @@ For testing in postman, below are the examples: <br />
 	http://localhost:3000/age/2013 <br />
 	http://localhost:3000/standard <br />
 <br />
-Note: <br />
-	I am providing the .env file as if something breaks from the heroku end then you can execute from your local machine. I know its not a good practice but pipelines can break due to various reasons. <br />
